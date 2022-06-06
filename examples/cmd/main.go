@@ -6,7 +6,7 @@ import (
 	"log"
 	"os"
 
-	"github.com/UserExistsError/conpty"
+	"github.com/EgeBalci/conpty"
 )
 
 func main() {
